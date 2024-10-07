@@ -1,20 +1,20 @@
 # Jspreadsheet
 
-[![Build Status](https://github.com/PHPOffice/PhpSpreadsheet/workflows/main/badge.svg)](https://github.com/PHPOffice/PhpSpreadsheet/actions)
-[![Jspreadsheet](🦊)](https://jspreadsheet.com/docs)
+[![Build Status](https://github.com/gabrielbrandaoi/Jspreadsheet/actions/new)
+[![Jspreadsheet](https://github.com/user-attachments/assets/53f39293-b4f4-4bcb-88fb-59dd0ab0066b)](https://jspreadsheet.com/docs)
 
-PhpSpreadsheet is a library written in pure PHP and offers a set of classes that
+Jspreadsheet is a library written in pure Js and offers a set of classes that
 allow you to read and write various spreadsheet file formats such as Excel and LibreOffice Calc.
 
 ## Installation
 
-See the [install instructions](https://phpspreadsheet.readthedocs.io/en/latest/#installation).
+See the [install instructions](https://jspreadsheet.com/docs/getting-started).
 
 ## Documentation
 
-Read more about it, including install instructions, in the [official documentation](https://phpspreadsheet.readthedocs.io). Or check out the [API documentation](https://phpoffice.github.io/PhpSpreadsheet).
+Read more about it, including install instructions, in the [FAQ](https://jspreadsheet.com/docs/faq).
 
-Please ask your support questions on [StackOverflow](https://stackoverflow.com/questions/tagged/phpspreadsheet), or have a quick chat on [Gitter](https://gitter.im/PHPOffice/PhpSpreadsheet).
+Please ask your support questions on Bot in Jspreadsheet
 
 ## Patreon
 
@@ -62,4 +62,4 @@ Do you need to migrate? There is [an automated tool](/docs/topics/migration-from
 
 ## License
 
-PhpSpreadsheet is licensed under [MIT](https://github.com/PHPOffice/PhpSpreadsheet/blob/master/LICENSE).
+PhpSpreadsheet is licensed under [MIT](https://jspreadsheet.com/docs/license).
